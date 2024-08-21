@@ -22,3 +22,29 @@ node y ts-node
 npm i nodemon
 
 npm i ts-node
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------
+con req.body nos referimos a ...
+
+----->      {
+
+                nombre: 'moises'
+
+
+            }
+
+            q estarian en formato json
