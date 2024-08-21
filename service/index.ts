@@ -1,0 +1,1 @@
+export {servicioTarea} from './tarea.service';

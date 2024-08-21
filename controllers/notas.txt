@@ -1,0 +1,7 @@
+Esta carpeta maneja las solicitudes http q el cliente realiza, ej get , post ,put ,delete
+
+
+
+//EL CONTROLADOR SOLO CONTROLA LAS ACCIONES , NO LAS REALIZA
+
+//LO QUE LO REALIZA ES LA CARPERA SERVICE

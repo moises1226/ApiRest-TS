@@ -1,0 +1,24 @@
+instalamos cors para que cualquier dispositivo pueda utlizar nuestra api rest
+
+npm i cors 
+
+---
+instalamos mongose para el uso de la dbmongo
+
+npm i mongoose
+
+-- 
+intalamos morgan para ver las peticiones al servidor
+
+npm i morgan
+
+--
+instalamos dotenv para las varibles de entorno
+
+--
+intalamos en el entorno de desarrolo -D 
+node y ts-node
+
+npm i nodemon
+
+npm i ts-node
