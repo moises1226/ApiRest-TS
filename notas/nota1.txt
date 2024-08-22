@@ -18,7 +18,7 @@ instalamos dotenv para las varibles de entorno
 
 --
 intalamos en el entorno de desarrolo -D 
-node y ts-node
+nodemon y ts-node
 
 npm i nodemon
 
