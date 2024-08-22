@@ -11,6 +11,7 @@ npm i mongoose
 intalamos morgan para ver las peticiones al servidor
 
 npm i morgan
+//morgan es para verificar si se realizo un get ,post , patch , delete en la consola
 
 --
 instalamos dotenv para las varibles de entorno

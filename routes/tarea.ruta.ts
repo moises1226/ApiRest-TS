@@ -9,4 +9,12 @@ const router = Router();
 
 router.get('/' , tareasControladoras.getAll_Tareas)
 
+router.post('/' , tareasControladoras.create)   
+
+//aca definimos que por la url nos va a pasar el id para poder actulizar 
+//el :id es un parametro de la url, la cual es la id q vamos a guardar en los controladores
+router.patch('/:id', tareasControladoras.update)
+
+router.delete('/:id' , tareasControladoras.delete)
+
 export default router;
